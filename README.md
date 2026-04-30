@@ -13,8 +13,8 @@ Objetos são criados (ex: Aluno, Professor)
 Cada um executa falar(), exibindo uma mensagem personalizada
 
 • **Objetivo**
-
-**Demonstrar:**
+Demonstrar:
 
 • Reutilização de código (herança)
+
 • Proteção de dados (encapsulamento)
