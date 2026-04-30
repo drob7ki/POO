@@ -3,8 +3,10 @@
 Projeto simples em PHP usando Programação Orientada a Objetos (POO).
 
 •**Conceitos**
+
 **Herança:**
 Pessoa é a classe base, e Aluno, Professor, Diretor e Funcionario herdam dela, reaproveitando atributos e modificando o método falar().
+
 **Encapsulamento:**
 A classe Idade usa atributo privado ($idade) e métodos get e set para controlar o acesso.
 
